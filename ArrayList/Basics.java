@@ -18,3 +18,4 @@ class Basics {
         System.out.println(arr);
 
     }
+}
